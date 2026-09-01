@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Vitor! 👋
 
-<!--
-**VitorO13/VitorO13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em construir aplicações eficientes e bem estruturadas.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando em...
+- 🌱 Estudando arquitetura de banco de dados e APIs
+- ⚡ Curiosidade: ...
+- 📫 Como me encontrar: [Seu LinkedIn] | [Seu Email]
+### 💻 Minha Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Estatísticas
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorO13&theme=radical&show_icons=true)](https://github.com/VitorO13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorO13&layout=compact&theme=radical)](https://github.com/VitorO13)
