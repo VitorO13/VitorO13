@@ -1,11 +1,9 @@
 # Olá, eu sou o Vitor! 👋
 
-Sou um desenvolvedor focado em construir aplicações eficientes e bem estruturadas.
-
 - 🔭 Atualmente trabalhando em...
 - 🌱 Estudando arquitetura de banco de dados e APIs
 - ⚡ Curiosidade: ...
-- 📫 Como me encontrar: [Seu LinkedIn] | [Seu Email]
+- 📫 Como me encontrar: [https://www.linkedin.com/in/vitor-de-oliveira-dias-bb22982a1/] | [vitoroli412@gmail.com]
 ### 💻 Minha Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
