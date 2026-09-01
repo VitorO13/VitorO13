@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando em...
 - 🌱 Estudando arquitetura de banco de dados e APIs
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Em java com spring boot, a melhor linguagem de programação ja feita.
 - 📫 Como me encontrar: [https://www.linkedin.com/in/vitor-de-oliveira-dias-bb22982a1/] | [vitoroli412@gmail.com]
 ### 💻 Minha Stack
 
