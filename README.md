@@ -1,10 +1,13 @@
 # Olá, eu sou o Vitor! 👋
 
-- 🔭 Atualmente trabalhando em...
-- 🌱 Estudando arquitetura de banco de dados e APIs
-- ⚡ Curiosidade: Em java com spring boot, a melhor linguagem de programação ja feita.
-- 📫 Como me encontrar: https://www.linkedin.com/in/vitor-de-oliveira-dias-bb22982a1/ | vitoroli412@gmail.com
-### 💻 Minha Stack
+- 🔭 Currently working on. ChatSC
+
+🌱 Learning about database architecture, APIs, and Frameworks .
+
+⚡ Fun fact: Java with Spring Boot — the best programming language and framework combination ever made!
+
+📫 How to reach me:: https://www.linkedin.com/in/vitor-de-oliveira-dias-bb22982a1/ | vitoroli412@gmail.com
+### 💻 Mine Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
