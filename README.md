@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor! 👋
+# Hello, you can call me Vito! 👋
 
 - 🔭 Currently working on. ChatSC
 
